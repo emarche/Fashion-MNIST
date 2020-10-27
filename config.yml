@@ -1,0 +1,9 @@
+seed: 100
+use_gpu: True
+
+train:
+  n_epochs: 50
+  batch_size: 64
+  n_classes: 10
+  
+  print_model: False
